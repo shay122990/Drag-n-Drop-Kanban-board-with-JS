@@ -3,14 +3,20 @@
 ## About The Project
 
 So this is essentially a frontend project management to-do board built with vanilla JavaScript. <br/>
-You have four columns. One for upcoming items, one fop current, one for completed and one for hold. You can move items between these columns by drag n'drop method. You can add new items in each of the columns. You can click on an excisting item and modify it. To delete it, you can click on an item and backspace it and that removes the item.<br/>
+You have four columns. One for upcoming items, one for current, one for completed and one on hold. You can move items between these columns by drag n'drop method. You can add new items in each of the columns. You can click on an excisting item and modify it and backspace to delete.<br/>
 The session is saved in your localStorage, so if you refresh and come back, everything will be displayed as you left it. <br/>
 This is a useful project to learn the methods and you can apply these methods in your own builds.
 
 ## Preview
 
-![Initial view](media/image1.gif)
-![Final view](media/image2.gif)
+Add Item: <br/>
+![Add Item](media/image1.gif) <br/>
+Remove Item: <br/>
+![Remove Item](media/image2.gif)<br/>
+Column Scroll: <br/>
+![On Scroll](media/image3.gif)<br/>
+Responsive: <br/>
+![Responsive](media/image4.gif)
 
 ## Built With <br/>
 
