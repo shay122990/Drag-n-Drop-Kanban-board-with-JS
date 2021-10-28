@@ -6,6 +6,7 @@ So this is essentially a frontend project management to-do board built with vani
 You have four columns. One for upcoming items, one for current, one for completed and one on hold. You can move items between these columns by drag n'drop method. You can add new items in each of the columns. You can click on an excisting item and modify it and backspace to delete.<br/>
 The session is saved in your localStorage, so if you refresh and come back, everything will be displayed as you left it. <br/>
 This is a useful project to learn the methods and you can apply these methods in your own builds.
+Future version will include delete icon button for easier removal & seemless drag.
 
 ## Preview
 
